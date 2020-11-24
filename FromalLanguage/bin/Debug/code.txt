@@ -1,0 +1,6 @@
+int a = 12345;
+double b = 23.2221;
+while (a > b && false) 
+{
+  a = a + a;
+}

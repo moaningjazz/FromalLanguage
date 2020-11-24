@@ -1,0 +1,13 @@
+{
+  "IsRegexRecognize": "false",
+  "StartState": "q0",
+  "FinishState": "q1",
+
+  "Matrix": [
+    {
+      "StateOut": "q0",
+      "Value": [ ";" ],
+      "StateIn": "q1"
+    }
+  ]
+}

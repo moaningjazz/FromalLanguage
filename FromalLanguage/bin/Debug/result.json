@@ -1,0 +1,218 @@
+[
+  {
+    "Key": "IntKeyword",
+    "Value": "int"
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": " "
+  },
+  {
+    "Key": "VarNames",
+    "Value": "a"
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": " "
+  },
+  {
+    "Key": "ComparisonOperator",
+    "Value": "="
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": " "
+  },
+  {
+    "Key": "IntValue",
+    "Value": "12345"
+  },
+  {
+    "Key": "ServiceSymbols",
+    "Value": ";"
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": "\r"
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": "\n"
+  },
+  {
+    "Key": "DoubleKeyword",
+    "Value": "double"
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": " "
+  },
+  {
+    "Key": "VarNames",
+    "Value": "b"
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": " "
+  },
+  {
+    "Key": "ComparisonOperator",
+    "Value": "="
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": " "
+  },
+  {
+    "Key": "FloatValue",
+    "Value": "23.2221"
+  },
+  {
+    "Key": "ServiceSymbols",
+    "Value": ";"
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": "\r"
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": "\n"
+  },
+  {
+    "Key": "WhileKeyword",
+    "Value": "while"
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": " "
+  },
+  {
+    "Key": "Brackets",
+    "Value": "("
+  },
+  {
+    "Key": "VarNames",
+    "Value": "a"
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": " "
+  },
+  {
+    "Key": "ComparisonOperator",
+    "Value": ">"
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": " "
+  },
+  {
+    "Key": "VarNames",
+    "Value": "b"
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": " "
+  },
+  {
+    "Key": "LogicOperation",
+    "Value": "&&"
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": " "
+  },
+  {
+    "Key": "FalseKeyword",
+    "Value": "false"
+  },
+  {
+    "Key": "Brackets",
+    "Value": ")"
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": " "
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": "\r"
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": "\n"
+  },
+  {
+    "Key": "Brackets",
+    "Value": "{"
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": "\r"
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": "\n"
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": " "
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": " "
+  },
+  {
+    "Key": "VarNames",
+    "Value": "a"
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": " "
+  },
+  {
+    "Key": "ComparisonOperator",
+    "Value": "="
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": " "
+  },
+  {
+    "Key": "VarNames",
+    "Value": "a"
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": " "
+  },
+  {
+    "Key": "ArithmeticOperation",
+    "Value": "+"
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": " "
+  },
+  {
+    "Key": "VarNames",
+    "Value": "a"
+  },
+  {
+    "Key": "ServiceSymbols",
+    "Value": ";"
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": "\r"
+  },
+  {
+    "Key": "Whitespaces",
+    "Value": "\n"
+  },
+  {
+    "Key": "Brackets",
+    "Value": "}"
+  }
+]

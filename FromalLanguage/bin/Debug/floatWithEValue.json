@@ -1,0 +1,48 @@
+{
+  "IsRegexRecognize": "true",
+  "StartState": "q0",
+  "FinishState": "q5",
+
+  "Matrix": [
+    {
+      "StateOut": "q0",
+      "Value": "[1-9]",
+      "StateIn": "q1"
+    },
+    {
+      "StateOut": "q1",
+      "Value": "\\.",
+      "StateIn": "q2"
+    },
+    {
+      "StateOut": "q1",
+      "Value": "[0-9]",
+      "StateIn": "q1"
+    },
+    {
+      "StateOut": "q2",
+      "Value": "[0-9]",
+      "StateIn": "q3"
+    },
+    {
+      "StateOut": "q3",
+      "Value": "[0-9]",
+      "StateIn": "q3"
+    },
+    {
+      "StateOut": "q3",
+      "Value": "e",
+      "StateIn": "q4"
+    },
+    {
+      "StateOut": "q4",
+      "Value": "[1-9]",
+      "StateIn": "q5"
+    },
+    {
+      "StateOut": "q5",
+      "Value": "[0-9]",
+      "StateIn": "q5"
+    }
+  ]
+}

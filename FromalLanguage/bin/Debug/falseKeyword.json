@@ -1,0 +1,43 @@
+{
+  "IsRegexRecognize": "false",
+  "StartState": "q0",
+  "FinishState": "q5",
+
+  "Matrix": [
+    {
+      "StateOut": "q0",
+      "Value": [
+        "f"
+      ],
+      "StateIn": "q1"
+    },
+    {
+      "StateOut": "q1",
+      "Value": [
+        "a"
+      ],
+      "StateIn": "q2"
+    },
+    {
+      "StateOut": "q2",
+      "Value": [
+        "l"
+      ],
+      "StateIn": "q3"
+    },
+    {
+      "StateOut": "q3",
+      "Value": [
+        "s"
+      ],
+      "StateIn": "q4"
+    },
+    {
+      "StateOut": "q4",
+      "Value": [
+        "e"
+      ],
+      "StateIn": "q5"
+    }
+  ]
+}
